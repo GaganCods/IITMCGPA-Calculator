@@ -83,6 +83,18 @@ CGPA = Σ (Credits × Grade Points) / Σ Credits
 
 ---
 
+## 🔍 How It Works
+
+1. Select your IITM BS degree program.  
+2. Enter completed subjects with credits and grades.  
+3. Add ongoing courses to predict results.  
+4. Add future subjects to simulate scenarios.  
+5. Instantly view CGPA changes in the results panel.
+
+All calculations happen directly in the browser — no servers involved.
+
+---
+
 ## 🧑‍💻 Local Development
 
 ```bash
