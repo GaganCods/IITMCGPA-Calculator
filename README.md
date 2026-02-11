@@ -67,7 +67,8 @@ CGPA = Σ (Credits × Grade Points) / Σ Credits
 
 ## 📸 Screenshots
 
-> Stored in `/screenshots` directory.
+Screenshots are located in the `/screenshots` directory.
+
 
 ### 🏠 Landing Page
 ![Landing Page](screenshots/landing.png)
