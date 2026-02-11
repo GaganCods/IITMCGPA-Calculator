@@ -1,20 +1,92 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎓 CGPA Calculator & Future Planner
 
-# Run and deploy your AI Studio app
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Deployment](https://img.shields.io/badge/Deployed-Vercel-black)
 
-This contains everything you need to run your app locally.
+A modern, fully client-side academic performance tool that helps students calculate current CGPA, predict ongoing semester results, and plan future grades with confidence.
 
-View your app in AI Studio: https://ai.studio/apps/drive/172Ic9w6p8PbGVy3pJq_PzyCqBP_gkVbT
+Built specifically for IITM BS programs during the Namdapha Tech Challenge, this project focuses on accurate grading logic, clean UX, responsive design, and long-term scalability.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🌐 Live Website
 
+👉 https://iitmcgpa-calculator.vercel.app/
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 📦 GitHub Repository
+
+👉 https://github.com/GaganCods/IITMCGPA-Calculator
+---
+
+## 👨‍💻 Creator
+
+**Gagan Pratap**
+
+Solo submission for the Namdapha Tech Challenge.
+
+### 🔗 Connect With Me
+
+- Instagram: https://instagram.com/iamgaganpratap 
+- LinkedIn: https://linkedin.com/in/gagan-pratap 
+- GitHub: https://github.com/GaganCods 
+
+---
+
+## ✨ What This Web App Does
+
+- 📊 Calculates current CGPA  
+- 🔮 Predicts semester performance  
+- 🧪 Simulates future grades  
+- 🎓 Supports IITM BS programs  
+- 📱 Fully responsive  
+- ⚡ Instant calculation  
+- 🔒 No backend / APIs / DB  
+- 🎨 Floating UI, rounded navbar, sticky results panel  
+
+---
+
+## 🧮 CGPA Calculation Formula
+
+CGPA = Σ (Credits × Grade Points) / Σ Credits
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js  
+- TypeScript  
+- Tailwind CSS  
+- shadcn/ui  
+
+---
+
+## 📸 Screenshots
+
+> Stored in `/screenshots` directory.
+
+### 🏠 Landing Page
+![Landing Page](screenshots/landing.png)
+
+### 🖥 CGPA Calculator Dashboard
+![Calculator](screenshots/desktop.png)
+
+### 📱 Mobile View
+![Mobile](screenshots/mobile.png)
+
+### 📊 Results Panel
+![Results](screenshots/results.png)
+
+---
+
+## 🧑‍💻 Local Development
+
+```bash
+git clone https://github.com/GaganCods/IITMCGPA-Calculator
+cd IITMCGPA-Calculator
+npm install
+npm run dev
