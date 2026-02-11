@@ -1,0 +1,5 @@
+{
+  "name": "New IITM BS CGPA Calculator",
+  "description": "A comprehensive CGPA calculator and prediction system for IIT Madras BS Degree students, featuring current CGPA calculation, ongoing semester prediction, and future target planning.",
+  "requestFramePermissions": []
+}
