@@ -79,7 +79,10 @@ const FuturePlanner: React.FC<FuturePlannerProps> = ({ currentData }) => {
             {isImpossible ? (
                  <>
                     <h3 className="text-red-400 font-bold text-lg mb-2">Unobtainable</h3>
-                    <p className="text-red-300/70 text-sm">You would need a GPA > 10 to reach this.</p>
+<p className="text-red-300/70 text-sm">
+  You would need a GPA &gt; 10 to reach this.
+</p>
+
                  </>
             ) : isAchieved ? (
                 <>
