@@ -62,7 +62,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="https://github.com/GaganCods/CGPA-Calculator" 
+                  href="https://github.com/GaganCods/IITMCGPA-Calculator" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-gray-400 hover:text-namdapha-primary transition-colors flex items-center gap-2 group w-fit"
